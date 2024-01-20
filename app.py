@@ -1,7 +1,7 @@
 from PIL import Image
 import requests
 import streamlit as st
-import streamlit_lottie as st_lottie
+import lottie as st_lottie
 
 st.set_page_config(page_title="Sweet Home Bakes", page_icon=":🍰:", layout="wide")
 
